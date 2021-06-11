@@ -18,7 +18,7 @@ body{
 }
 
 .about-bg h4{
-    color: #013F69;
+    color: hsl(233, 26%, 24%);
     font-size: 20px;
     font-family: poppins;
     padding:0px;
@@ -26,18 +26,18 @@ body{
 } 
 
 .about-bg hr{
-    border: 3px solid #013F69;
+    border: 3px solid blueviolet;
     padding:0px;
     margin: 0px;
 }
 .about-bg h3{
-    color: #013F69;
+    color: blueviolet;
     font-size: 40px;
     font-family: poppins;
 } 
 
 .about-bg p{
-    color: #013F69;
+    color: hsl(233, 8%, 62%);
     font-size: 15px;
     font-family: poppins;
     margin-bottom: 40px;
@@ -45,17 +45,17 @@ body{
 } 
 
 .about-link{
-    border: 2px solid #013F69;
+    border: 2px solid blueviolet;
     border-radius: 5px;
     font-size: 30px;
-    color: #013F69;
+    color: blueviolet;
     padding: 10px;
 }
 
 .about-link:hover{
     border-radius: 5px;
     color: whitesmoke;
-    background-color: #013F69;
+    background-color: blueviolet;
 }
 
 .about-bg-info{
@@ -96,11 +96,11 @@ height: auto;
 
 .item-text hr{
     width: 100px;
-    border: 2px solid #013F69;
+    border: 2px solid blueviolet;
 }
 
 .item-text h4{
-    color: #013F69;
+    color: hsl(233, 26%, 24%);
     font-size: 30px;
     font-family: poppins;
     margin-bottom: 0px;
@@ -108,7 +108,7 @@ height: auto;
 
 .item-text p{
     padding-top: 10px;
-    color: #013F69;
+    color: hsl(233, 8%, 62%);
     font-size: 15px;
     font-family: poppins;
 }
@@ -138,7 +138,7 @@ height: auto;
 }
 
 .like-div hr{
-    border: 2px solid #013F69;
+    border: 2px solid blueviolet;
 }
 
 .like-div-link{
@@ -150,15 +150,15 @@ height: auto;
 }
 
 .like-div-link a{
-    border: 2px solid #013F69 ;
+    border: 2px solid blueviolet ;
     border-radius: 5px;
     font-size: 20px;
-    color: #013F69;
+    color: blueviolet;
     padding: 10px;
 }
 
 .like-div-link a:hover{
-    background-color: #013F69;
+    background-color: blueviolet;
     border-radius: 5px;
     color: whitesmoke;
 }
@@ -168,7 +168,7 @@ height: auto;
     text-align: center;
     font-family: Poppins;
     font-size: 30px;
-    color: #013F69;
+    color: hsl(233, 8%, 62%);
     margin-top: 50px;
     margin-bottom: 20px;
     padding: 0px;
@@ -198,12 +198,12 @@ height: auto;
 .like-text-td p{
     font-size: 15px;
     text-align: center;
-    color: #013F69;
+    color: hsl(233, 8%, 62%);
 }
 .like-text-td h3{
     font-size: 20px;
     text-align: center;
-    color: #013F69;
+    color: blueviolet;
     font-family: poppins;
 }
 

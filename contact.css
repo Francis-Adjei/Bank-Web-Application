@@ -16,7 +16,7 @@ body{
 }
 
 .contact-bg h4{
-    color: #013F69;
+    color: hsl(233, 26%, 24%);
     font-size: 20px;
     font-family: poppins;
     padding:0px;
@@ -24,12 +24,12 @@ body{
 } 
 
 .contact-bg hr{
-    border: 3px solid #013F69;
+    border: 3px solid blueviolet;
     padding:0px;
     margin: 0px;
 }
 .contact-bg h3{
-    color: #013F69;
+    color: blueviolet;
     font-size: 40px;
     font-family: poppins;
     padding-top: 30px;
@@ -37,17 +37,17 @@ body{
 } 
 
 .contact-bg p{
-    color: #013F69;
+    color: hsl(233, 8%, 62%);
     font-size: 15px;
     font-family: poppins;
     margin-bottom: 40px;
 } 
 
 .contact-link{
-    border: 2px solid #013F69;
+    border: 2px solid blueviolet;
     border-radius: 5px;
     font-size: 30px;
-    color: #013F69;
+    color: blueviolet;
     padding: 10px;
     text-decoration: none;
 }
@@ -55,7 +55,7 @@ body{
 .contact-link:hover{
     border-radius: 5px;
     color: whitesmoke;
-    background-color: #013F69;
+    background-color: blueviolet;
 }
 
 .contact-bg-info{
@@ -96,7 +96,7 @@ body{
 }
 
 .address-text{
-    color: #013F69;
+    color: hsl(233, 26%, 24%);
     font-size: 25px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -116,7 +116,7 @@ body{
   }
 
   input[type=text]:active{
-    border: 1px solid #013F69;
+    border: 1px solid blueviolet;
   }
   
 
@@ -126,7 +126,7 @@ body{
   }
   
   input[type=submit] {
-    background-color: #013F69;
+    background-color: blueviolet;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -160,7 +160,7 @@ body{
 }
 
 .like-div hr{
-    border: 2px solid #013F69;
+    border: 2px solid blueviolet;
 }
 
 .like-div p{
@@ -168,7 +168,7 @@ body{
     text-align: center;
     font-family: Poppins;
     font-size: 30px;
-    color: #013F69;
+    color: hsl(233, 8%, 62%);
     margin-top: 50px;
     margin-bottom: 20px;
     padding: 0px;
