@@ -33,12 +33,32 @@ a{
     font-family: poppins;
 } 
 
-.contact-bg p{
+/* .contact-bg p{
     color: hsl(233, 8%, 62%);
     font-size: 15px;
     font-family: poppins;
     margin-bottom: 40px;
-} 
+}  */
+
+
+.contact-bg p{
+    color: hsl(233, 8%, 62%);
+    /* background-color: blueviolet; */
+    font-size: 15px;
+    font-family: poppins;
+    margin-bottom: 40px;
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 14px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.contact-bg p:hover{
+    background-color: white;
+    color: hsl(233, 8%, 62%);
+    border-radius: 8px;
+}
 
 .contact-link{
     border: 2px solid blueviolet;
