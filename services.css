@@ -15,7 +15,7 @@ a{
 }
 
 .contact-bg h4{
-    color: #013F69;
+    color: blueviolet;
     font-size: 20px;
     font-family: poppins;
     padding:0px;
@@ -23,35 +23,35 @@ a{
 } 
 
 .contact-bg hr{
-    border: 3px solid #013F69;
+    border: 3px solid blueviolet;
     padding:0px;
     margin: 0px;
 }
 .contact-bg h3{
-    color: #013F69;
+    color: hsl(233, 26%, 24%);
     font-size: 40px;
     font-family: poppins;
 } 
 
 .contact-bg p{
-    color: #013F69;
+    color: hsl(233, 8%, 62%);
     font-size: 15px;
     font-family: poppins;
     margin-bottom: 40px;
 } 
 
 .contact-link{
-    border: 2px solid #013F69;
+    border: 2px solid blueviolet;
     border-radius: 5px;
     font-size: 30px;
-    color: #013F69;
+    color: blueviolet;
     padding: 10px;
 }
 
 .contact-link:hover{
     border-radius: 5px;
     color: whitesmoke;
-    background-color: #013F69;
+    background-color: blueviolet;
 }
 
 .contact-bg-info{
@@ -81,7 +81,7 @@ a{
     margin-top: 150px;
     margin-bottom: 20px;
     font-size: 50px;
-    color: #013F69;
+    color: hsl(233, 26%, 24%);
     font-family: poppins; 
 }
 
@@ -89,7 +89,7 @@ a{
 
 .ps-title hr{
     width: 300px;
-    border: 2px solid #013F69;
+    border: 2px solid blueviolet;
 }
 
 .ps-grid{
@@ -107,16 +107,16 @@ a{
 
 .ps-item h3{
     font-size: 25px;
-    color: #013F69;
+    color: blueviolet;
 }
 
 .ps-item p{
     font-size: 40px;
-    color: #013F69;
+    color: hsl(233, 8%, 62%);
 }
 
 .ps-item a{
-    background-color:  #013F69;
+    background-color:  blueviolet;
     border-radius: 5px;
     font-size: 20px;
     color: whitesmoke;
