@@ -136,7 +136,7 @@ a{
 }
 
 .ps-item a:hover{
-    background-color: #0b87da;
+    background-color: rgb(181, 129, 230);
     border-radius: 5px;
     color: whitesmoke;
 }
