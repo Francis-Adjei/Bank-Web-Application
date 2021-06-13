@@ -33,17 +33,9 @@ a{
     font-family: poppins;
 } 
 
-/* .contact-bg p{
-    color: hsl(233, 8%, 62%);
-    font-size: 15px;
-    font-family: poppins;
-    margin-bottom: 40px;
-}  */
-
 
 .contact-bg p{
     color: hsl(233, 8%, 62%);
-    /* background-color: blueviolet; */
     font-size: 15px;
     font-family: poppins;
     margin-bottom: 40px;
@@ -127,7 +119,7 @@ a{
 
 .ps-item h3{
     font-size: 25px;
-    color: blueviolet;
+    color: hsl(231, 27%, 15%);
 }
 
 .ps-item p{
